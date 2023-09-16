@@ -1,0 +1,16 @@
+*{
+    background-color: #dddddd;
+}
+
+.imagen1, body   {
+    text-align: center;
+    margin-right: 50px;
+}
+h2{
+    text-align: center;
+    background-color: white;
+    padding: 10px 10px;
+    padding-top: 10px;
+    padding-left: 50px;
+    width: 500px;
+}
